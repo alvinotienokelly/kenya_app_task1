@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305431024324",
+    "firebase_url": "https://kenya-app-cc838.firebaseio.com",
+    "project_id": "kenya-app-cc838",
+    "storage_bucket": "kenya-app-cc838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305431024324:android:91554785050def5bb9af91",
+        "android_client_info": {
+          "package_name": "com.app.kenya_app_task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305431024324-21oql4vcq9bsegm9s3dlgi6vfm66ubks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.kenya_app_task1",
+            "certificate_hash": "0f5d044f6b0c36e73dd6fc5aa86d5937c9c94e23"
+          }
+        },
+        {
+          "client_id": "305431024324-cvno2dlisqk58nufmeqf1diq6hdecm3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkzSFP7DktbEH0TKto6f32MwTNAv_IOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305431024324-cvno2dlisqk58nufmeqf1diq6hdecm3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
